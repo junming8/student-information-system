@@ -1,7 +1,7 @@
 # Author: Ng Jun Ming
 
 
-from functions_220080D import *
+from functions import *
 
 number_of_students = 0
 
